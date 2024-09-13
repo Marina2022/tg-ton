@@ -9,7 +9,7 @@ import Dashboard from "./pages/Dashboard.jsx";
 import Notifications from "./pages/Notifications.jsx";
 import Calls from "./pages/Calls.jsx";
 import {TonConnectUIProvider} from "@tonconnect/ui-react";
-
+import "@twa-dev/sdk";
 
 const MyTheme = createTheme({
 
